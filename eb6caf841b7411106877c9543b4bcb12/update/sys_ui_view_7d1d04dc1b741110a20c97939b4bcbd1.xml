@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>sys_popup,deployment</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>richard.zheng@snc</sys_created_by>
+        <sys_created_on>2022-07-15 18:17:00</sys_created_on>
+        <sys_id>7d1d04dc1b741110a20c97939b4bcbd1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sys_popup,deployment</sys_name>
+        <sys_package display_value="finaltest" source="x_dbsg2_finaltest">eb6caf841b7411106877c9543b4bcb12</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="finaltest">eb6caf841b7411106877c9543b4bcb12</sys_scope>
+        <sys_update_name>sys_ui_view_7d1d04dc1b741110a20c97939b4bcbd1</sys_update_name>
+        <sys_updated_by>richard.zheng@snc</sys_updated_by>
+        <sys_updated_on>2022-07-15 18:17:00</sys_updated_on>
+        <title>Sys_popup,deployment</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
